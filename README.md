@@ -1,4 +1,4 @@
-# node-os [![npm](https://img.shields.io/npm/v/os.svg)](https://www.npmjs.com/package/fb-messenger) [![npm](https://img.shields.io/npm/dm/os.svg)](https://www.npmjs.com/package/fb-messenger) [![npm](https://img.shields.io/npm/l/os.svg)](LICENSE)
+# node-os [![npm](https://img.shields.io/npm/v/os.svg)](https://www.npmjs.com/package/os) [![npm](https://img.shields.io/npm/dm/os.svg)](https://www.npmjs.com/package/os) [![npm](https://img.shields.io/npm/l/os.svg)](LICENSE)
 #### NodeJS Core Module Extended
 
 ## Installation
