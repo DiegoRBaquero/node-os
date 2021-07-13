@@ -1,8 +1,10 @@
 # os
 
-#### This is a NodeJS Core Module
+This is a Node.js Core Module
 
-**DO NOT INSTALL**
+# There's no need to install through npm
+
+**Really, there's no need, just require/import it :)**
 
 ## API
 
