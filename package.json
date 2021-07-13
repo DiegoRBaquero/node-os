@@ -1,6 +1,6 @@
 {
   "name": "os",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "NodeJS Core Module Extended",
   "main": "index.js",
   "scripts": {
